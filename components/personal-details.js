@@ -196,7 +196,7 @@ const PersonalDetails = () => {
               strokeWidth="0"
             ></path>
             <image
-              href="https://i.imgur.com/eNvh64N.png"
+              href="https://i.imgur.com/yf49t9y_d.webp?maxwidth=760&fidelity=grand"
               x="3"
               y="-30"
               className="w-full"

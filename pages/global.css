@@ -78,7 +78,7 @@ html {
   padding-left: 15px;
   padding-bottom: 10px;
   position: relative;
-  border-top: 6px solid #0955a3;
+  border-top: 6px solid #001F3F;
   align-self: center;
 }
 
@@ -95,7 +95,7 @@ html {
   padding-left: 1.3rem;
   padding-bottom: 10px;
   position: relative;
-  border-top: 6px solid #0955a3;
+  border-top: 6px solid #001F3F;
 }
 
 @media only screen and (max-width: 768px) {
